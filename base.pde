@@ -1,3 +1,7 @@
+profe antes que nada le adjunto el codigo que en examen hice yo solo, se lo mostre pero me lo regreso para corregirle unas cosas que usted 
+me explico y al final se lo mostre de nuevo junto con la hoja de examen pero por las prisas no se si me lo alcanzo a calificar ya que me fui
+rapido. en todo caso aqui esta y si me dio mi matricula. ( este lo hice yo solo porque mi compañero de equipo ya se habia ido)
+
 class Base {
   //Atributos
   char letra;
